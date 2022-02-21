@@ -22,7 +22,7 @@ Finished notification: <br>
 ![](images/Finished.png)<br>
 
 Unoptimised Files: <br>
-![](images/Unoptimised-FIles.png)<br>
+![](images/Unoptimised-Files.png)<br>
 
 Optimised Files: <br>
 ![](images/Optimised-Files.png)<br>
